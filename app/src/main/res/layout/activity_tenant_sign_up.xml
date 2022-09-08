@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_5"
+    tools:context=".RentingTenantSignUp">
+
+    <ImageView
+        android:id="@+id/imageViewv"
+        android:layout_width="394dp"
+        android:layout_height="116dp"
+
+        android:background="@drawable/img_5"
+        app:srcCompat="@drawable/img_9" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:background="#00AAAAAA">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+
+            <EditText
+                android:id="@+id/first_name"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:hint="First name"
+                android:imeOptions="actionNext"
+
+                android:singleLine="true"
+                android:textColor="#ffff"
+                android:textColorHint="#ffff" />
+
+            <EditText
+
+                android:id="@+id/last_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:hint="Last name"
+                android:inputType="text"
+                android:textColor="#ffff"
+                android:textColorHint="#ffff" />
+
+            <EditText
+                android:id="@+id/email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:hint="Email"
+                android:imeOptions="actionNext"
+                android:inputType="textEmailAddress"
+                android:textColor="#ffff"
+                android:textColorHint="#ffff" />
+
+            <EditText
+                android:id="@+id/password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:hint="Password"
+                android:inputType="textPassword"
+                android:textColor="#ffff"
+                android:textColorHint="#ffff" />
+
+            <EditText
+                android:id="@+id/rePassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:hint="Password again"
+                android:inputType="textPassword"
+                android:textColor="#ffff"
+                android:textColorHint="#ffff" />
+
+            <EditText
+
+                android:id="@+id/Occupation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:hint="Occupation"
+                android:inputType="text"
+                android:textColor="#ffff"
+                android:textColorHint="#ffff" />
+
+            <EditText
+
+                android:id="@+id/Family_Size"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:hint="Family Size"
+                android:inputType="number"
+                android:textColor="#ffff"
+                android:textColorHint="#ffff" />
+
+            <EditText
+
+                android:id="@+id/Gross_Monthly_Salary"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:hint="Monthly Salary"
+                android:inputType="numberDecimal"
+                android:textColor="#ffff"
+                android:textColorHint="#ffff" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Select Nationality"
+                android:textColor="#FAF7F7">
+
+            </TextView>
+
+            <Spinner
+                android:id="@+id/natSp"
+                android:layout_width="match_parent"
+                android:layout_height="35dp">
+
+            </Spinner>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Select Country "
+                android:textColor="#FDFDFD">
+
+            </TextView>
+
+            <Spinner
+                android:id="@+id/countrySp"
+                android:layout_width="match_parent"
+                android:layout_height="35dp">
+
+            </Spinner>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Select City "
+                android:textColor="#F8F5F5">
+
+            </TextView>
+
+            <Spinner
+                android:id="@+id/citySp"
+                android:layout_width="match_parent"
+                android:layout_height="35dp">
+
+            </Spinner>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/phoneCode"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="+962"
+                    android:textColor="#FAF5F5">
+
+                </TextView>
+
+                <EditText
+
+                    android:id="@+id/phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+
+                    android:gravity="center"
+                    android:hint="Number"
+                    android:inputType="phone"
+                    android:textColor="#ffff"
+                    android:textColorHint="#ffff" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Select Gender"
+                android:textColor="#F3EDED" />
+
+            <Spinner
+                android:id="@+id/genderSp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/register_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@color/black"
+
+                android:gravity="center"
+                android:onClick="RegisterTenant"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="SignUp"
+                android:textColor="#ffff"
+                android:textColorHint="#ffff" />
+
+        </LinearLayout>
+
+    </ScrollView>
+</RelativeLayout>

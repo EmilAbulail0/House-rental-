@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/agency_main"
+
+            android:title="Home" />
+
+        <item
+            android:id="@+id/agency_post"
+
+            android:title="Post A Property" />
+
+        <item
+            android:id="@+id/agency_edit"
+
+            android:title="Edit Properties" />
+
+        <item
+            android:id="@+id/agency_history"
+
+            android:title="Agency R History" />
+
+
+
+        <item
+            android:id="@+id/agency_rent_approval"
+            android:title="Rental Application"/>
+
+        <item
+            android:id="@+id/agency_profile"
+
+            android:title="Profile" />
+        <item
+            android:id="@+id/agency_signout"
+
+            android:title="Logout" />
+    </group>
+</menu>

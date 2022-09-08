@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Emil Abulail/Desktop/1180955_1181034_RentalHouse/House/app/src/main/res/layout/activity_agency_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/1180955_1181034_RentalHouse/House/app/src/main/res/layout/activity_singinup.xml" value="0.264" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/1180955_1181034_RentalHouse/House/app/src/main/res/layout/fragment_edit_profile.xml" value="0.153125" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/1180955_1181034_RentalHouse/House/app/src/main/res/layout/fragment_rental_application.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/1180955_1181034_RentalHouse/House/app/src/main/res/layout/fragment_search_home.xml" value="0.153125" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/activity_agency_main.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/activity_guest_main.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/activity_main_activity.xml" value="0.153125" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/activity_singinup.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/editprop_layout.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/fav_layout.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/fav_loading.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/frag_profile.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/fragment_edit_prop.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/fragment_edit_view.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/fragment_fav.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/fragment_post_history.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/fragment_post_p.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/fragment_rental_app.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/fragment_search.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/fragment_search_apply.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/fragment_ser.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/fragment_tenant_history.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/fragment_view_tenant.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/item_house.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/nav_header.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/notification.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/post_history_layout.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/rental_app_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/tn_history_layout.xml" value="0.14375" />
+        <entry key="..\:/Users/Emil Abulail/Desktop/House/House/House/app/src/main/res/layout/view_layout.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/activity_agency_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/activity_agency_sign_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/activity_guest_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/activity_main_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/activity_profile.xml" value="0.153125" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/activity_singInUp.xml" value="0.2" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/activity_singinup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/activity_tenant_main.xml" value="0.153125" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/activity_tenant_sign_up.xml" value="0.264" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/ag_history_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/editprop_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/fav_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/fav_loading.xml" value="0.153125" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/frag_profile.xml" value="0.153125" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/fragment_agency_history.xml" value="0.153125" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/fragment_date_apply.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/fragment_edit_prop.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/fragment_edit_view.xml" value="0.264" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/fragment_fav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/fragment_post_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/fragment_post_p.xml" value="0.264" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/fragment_rental_app.xml" value="0.153125" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/fragment_search.xml" value="0.176" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/fragment_search_apply.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/fragment_ser.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/fragment_tenant_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/fragment_view_tenant.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/input.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/item_house.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/nav_header.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/notification.xml" value="0.264" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/post_history_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/rental_app_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/tn_history_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/layout/view_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/menu/drawer_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/menu/drawer_menu_guest.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/menu/navigation_menu2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/House/House/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/HouseRentals-20220108T112812Z-001/HouseRentals/app/src/main/res/layout/activity_sin_as__renting__agency.xml" value="0.2" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/HouseRentals-20220108T112812Z-001/HouseRentals/app/src/main/res/layout/activity_sin_as__renting__tenant.xml" value="0.2" />
+        <entry key="..\:/Users/Emil Abulail/Downloads/HouseRentals-20220108T112812Z-001/HouseRentals/app/src/main/res/layout/activity_sing_in_up.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/ThinkPad/AppData/Local/Android/Sdk/platforms/android-29/data/res/layout/simple_spinner_item.xml" value="0.22" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable-v24/bigcar.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable-v24/button_style.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable-v24/button_style1.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable-v24/call.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable-v24/ic_baseline_arrow_back_24.xml" value="0.14351851851851852" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable-v24/ic_baseline_call_24.xml" value="0.14351851851851852" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable-v24/ic_baseline_favorite_24.xml" value="0.14351851851851852" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable-v24/ic_baseline_home_24.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable-v24/ic_baseline_list_alt_24.xml" value="0.14351851851851852" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable-v24/ic_baseline_menu_book_24.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable-v24/ic_baseline_person_24.xml" value="0.14351851851851852" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable-v24/ic_baseline_search_24.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable-v24/ic_car.xml" value="0.14351851851851852" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable-v24/ic_contactus_my_background.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable-v24/ic_heart.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable-v24/ic_my_location_black_24dp.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable-v24/ic_pin_drop_black_24dp.xml" value="0.1175925925925926" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/drawable/mybutton.xml" value="0.1" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/EditProp_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/activity_main.xml" value="0.10054347826086957" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/activity_main_a.xml" value="0.22" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/activity_main_t.xml" value="0.1" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/activity_profile.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/activity_search_pro.xml" value="0.22" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/activity_sin_as__renting__agency.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/activity_sin_as__renting__tenant.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/activity_sing_in_up.xml" value="0.10054347826086957" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/editprop_layout.xml" value="0.11594202898550725" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/fav_layout.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/fav_loading.xml" value="0.12" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/frag_profile.xml" value="0.1" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/fragment_editProp.xml" value="0.1" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/fragment_edit_prop.xml" value="0.16777251184834124" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/fragment_edit_view.xml" value="0.1" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/fragment_fav.xml" value="0.22" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/fragment_home_p.xml" value="0.35456475583864117" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/fragment_post_p.xml" value="0.1" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/fragment_search.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/fragment_ser.xml" value="0.1" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/input.xml" value="0.12" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/item_house.xml" value="0.22" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/nav_header.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/layout/yesnoa2.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/menu/a.xml" value="0.1796875" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/menu/drawer_menu.xml" value="0.22" />
+        <entry key="..\:/Users/ThinkPad/Desktop/HouseRentals/app/src/main/res/menu/navigation_menu2.xml" value="0.1796875" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/drawable-v24/ic_baseline_search_24.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/activity_main_g.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/activity_main_t.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/activity_sing_in_up.xml" value="0.1118659420289855" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/ag_history_layout.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/editprop_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/fav_layout.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/fav_loading.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/frag_profile.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/fragment_agency_history.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/fragment_date_apply.xml" value="0.22" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/fragment_edit_prop.xml" value="0.1609375" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/fragment_edit_view.xml" value="0.5" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/fragment_fav.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/fragment_post_history.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/fragment_post_p.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/fragment_rental_app.xml" value="0.1640625" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/fragment_search.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/fragment_search_apply.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/fragment_ser.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/fragment_tenant_history.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/fragment_view_tenant.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/input.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/item_house.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/nav_header.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/notification.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/post_history_layout.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/rental_app_layout.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/tn_history_layout.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/layout/view_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/menu/drawer_menu_guest.xml" value="0.5" />
+        <entry key="..\:/Users/ThinkPad/Downloads/HouseRentals/app/src/main/res/menu/drawer_menu_tenant.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Lana/HouseRentals/app/src/main/res/layout/activity_main_a.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Lana/HouseRentals/app/src/main/res/layout/activity_main_g.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Lana/HouseRentals/app/src/main/res/layout/activity_main_t.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Lana/HouseRentals/app/src/main/res/layout/activity_sing_in_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Lana/HouseRentals/app/src/main/res/layout/editprop_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Lana/HouseRentals/app/src/main/res/layout/fav_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Lana/HouseRentals/app/src/main/res/layout/fragment_date_apply.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Lana/HouseRentals/app/src/main/res/layout/fragment_edit_prop.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Lana/HouseRentals/app/src/main/res/layout/fragment_edit_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Lana/HouseRentals/app/src/main/res/layout/fragment_search_apply.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Lana/HouseRentals/app/src/main/res/layout/fragment_ser.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Lana/HouseRentals/app/src/main/res/layout/nav_header.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Lana/HouseRentals/app/src/main/res/layout/view_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Lana/HouseRentals/app/src/main/res/menu/drawer_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Lana/HouseRentals/app/src/main/res/menu/drawer_menu_guest.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Lana/HouseRentals/app/src/main/res/menu/drawer_menu_tenant.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/layout/activity_main_t.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/layout/ag_history_layout.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/layout/editprop_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/layout/frag_profile.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/layout/fragment_agency_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/layout/fragment_edit_prop.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/layout/fragment_edit_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/layout/fragment_post_history.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/layout/fragment_post_p.xml" value="0.264" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/layout/fragment_rental_app.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/layout/fragment_search.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/layout/fragment_view_tenant.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/layout/notification.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/layout/post_history_layout.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/layout/rental_app_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/layout/tn_history_layout.xml" value="0.536" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/menu/drawer_menu.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/menu/drawer_menu_guest.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/User/Downloads/HouseRentals/HouseRentals/app/src/main/res/menu/navigation_menu2.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/drawable-v24/ic_baseline_arrow_back_24.xml" value="0.2546875" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/drawable-v24/ic_baseline_home_24.xml" value="0.2546875" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/drawable-v24/ic_baseline_menu_book_24.xml" value="0.2546875" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/drawable-v24/ic_baseline_person_24.xml" value="0.2546875" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/drawable-v24/ic_baseline_search_24.xml" value="0.2546875" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/drawable-v24/round_corner.xml" value="0.20625" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/drawable/mybutton.xml" value="0.2546875" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/activity_main.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/activity_main_a.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/activity_main_g.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/activity_main_t.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/activity_profile.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/activity_sin_as__renting__agency.xml" value="0.22" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/activity_sin_as__renting__tenant.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/activity_sing_in_up.xml" value="0.264" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/ag_history_layout.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/editprop_layout.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/fav_layout.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/fav_loading.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/frag_profile.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/fragment_agency_history.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/fragment_date_apply.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/fragment_edit_prop.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/fragment_edit_view.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/fragment_fav.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/fragment_post_history.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/fragment_post_p.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/fragment_search.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/fragment_search_apply.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/fragment_ser.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/fragment_tenant_history.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/fragment_view_tenant.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/input.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/item_house.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/nav_header.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/notification.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/post_history_layout.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/rental_app_layout.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/tn_history_layout.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/view_layout.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/layout/yesnoa2.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/menu/drawer_menu.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/menu/drawer_menu_guest.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/hp/Downloads/House/app/src/main/res/menu/drawer_menu_tenant.xml" value="0.23854166666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SearchApplyFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <ImageView
+                android:id="@+id/image_apply"
+                android:layout_width="match_parent"
+                android:layout_height="240dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="16dp" />
+
+            <TextView
+                android:id="@+id/description_apply"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TextView" />
+
+            <DatePicker
+                android:id="@+id/date_picker"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="-30dp"
+                android:layout_marginRight="-30dp"
+                android:datePickerMode="spinner"
+                android:scaleX="0.7"
+                android:scaleY="0.7" />
+
+
+            <Button
+                android:id="@+id/apply_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:background="#9C27B0"
+                android:text="Apply" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_4"
+    tools:context=".RentingTenantSignUp">
+
+    <ImageView
+        android:id="@+id/imageViewv"
+        android:layout_width="400dp"
+        android:layout_height="150dp"
+
+        android:adjustViewBounds="true"
+        app:srcCompat="@drawable/img_23" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:background="#00AAAAAA">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+
+            <EditText
+                android:id="@+id/postAdd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:hint="Postal Address"
+                android:textColor="#ffff"
+                android:textColorHint="#ffff" />
+
+            <EditText
+                android:id="@+id/cityName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:hint="City"
+                android:inputType="text"
+                android:textColor="#ffff"
+                android:textColorHint="#ffff" />
+
+            <EditText
+                android:id="@+id/surArea"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:hint="Surface Area"
+                android:imeOptions="actionNext"
+                android:inputType="number"
+                android:textColor="#ffff"
+                android:textColorHint="#ffff" />
+
+            <EditText
+                android:id="@+id/constYear"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:hint="Construction Year"
+                android:inputType="number"
+                android:textColor="#ffff"
+                android:textColorHint="#ffff" />
+
+            <EditText
+                android:id="@+id/numberOB"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:hint="Number Of Bedrooms"
+                android:inputType="number"
+                android:textColor="#ffff"
+                android:textColorHint="#ffff" />
+
+            <EditText
+                android:id="@+id/rentalP"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:hint="Rental Price"
+                android:inputType="numberDecimal"
+                android:textColor="#ffff"
+                android:textColorHint="#ffff" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Status"
+                android:textColor="#FDF7F7"></TextView>
+
+            <Spinner
+                android:id="@+id/natSp"
+                android:layout_width="match_parent"
+                android:layout_height="35dp">
+
+            </Spinner>
+
+            <LinearLayout
+                android:id="@+id/lhb"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="10dp"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <CheckBox
+                    android:id="@+id/checkBox_balcony"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="With Balcony"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/checkBox_garden"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="With Garden"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/availDate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:hint="Availability Date"
+                android:inputType="date"
+                android:textColor="#ffff"
+                android:textColorHint="#ffff" />
+
+            <EditText
+                android:id="@+id/descrip"
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:background="#5979CDF3"
+                android:hint="Property Description"
+                android:inputType="textVisiblePassword"
+                android:paddingLeft="10dp">
+
+            </EditText>
+
+            <Button
+                android:id="@+id/selectImagB"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="32dp"
+                android:background="@android:drawable/bottom_bar"
+                android:text="Choose IMAGE"
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+            <!--ImageView to preview the selected image-->
+            <ImageView
+                android:id="@+id/IVPreviewImage"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_below="@id/selectImagB"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="16dp" />
+
+            <Button
+                android:id="@+id/post"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@android:color/transparent"
+                android:gravity="center"
+                android:onClick="RegisterAgency"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="Post"
+                android:textColor="#ffff"
+                android:textColorHint="#ffff" />
+
+        </LinearLayout>
+
+    </ScrollView>
+</RelativeLayout>
